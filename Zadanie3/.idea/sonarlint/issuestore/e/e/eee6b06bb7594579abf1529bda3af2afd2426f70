@@ -1,0 +1,17 @@
+
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æÑ¢şÿÿÿÿ8ñ­à­º1
+{
+java:S1450"YRemove the "dateButton" field and declare it as a local variable in the relevant methods.(ˆŸªùùÿÿÿÿ8ğÜä­º1
+}
+java:S1450"[Remove the "doneCheckBox" field and declare it as a local variable in the relevant methods.(§¨âŸıÿÿÿÿ8ğÜä­º1
+z
+java:S1450"XRemove the "nameField" field and declare it as a local variable in the relevant methods.(âê¸şÿÿÿÿ8ğÜä­º1
+Y
+java:S1874("7Remove this use of "getSerializable"; it is deprecated.(½‚°½ıÿÿÿÿ8€®à­º1
+
+java:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô—½48…İä­º1
+
+java:S1186="€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íÑíÍ8…İä­º1
+N
+java:S1602F",Remove useless curly braces around statement(ìÑÔÿÿÿÿÿ8‹İä­º1
